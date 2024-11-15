@@ -78,13 +78,13 @@ Películas recomendadas para 'The Godfather':
 ---
 
 ## 🤔 ¿Cómo funciona?
-# 1. Preprocesamiento del Dataset:
+### 1. Preprocesamiento del Dataset:
 Limpieza de valores nulos en las sinopsis.
-# 2. Vectorización TF-IDF:
+### 2. Vectorización TF-IDF:
 Convierte las sinopsis en vectores numéricos.
-# 3. Similitud del Coseno:
+### 3. Similitud del Coseno:
 Calcula la similitud entre todas las películas.
-# 4. Recomendaciones:
+### 4. Recomendaciones:
 Devuelve las películas más similares basadas en la sinopsis de la película seleccionada.
 
 ---
